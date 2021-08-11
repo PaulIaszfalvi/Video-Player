@@ -1,0 +1,11 @@
+ul {
+  list-style-type: none;
+}
+
+.scrollBox {
+  width: 95vw;
+  height: 50vh;
+  line-height: 3em;
+  overflow: scroll;
+  padding: 5px;
+}

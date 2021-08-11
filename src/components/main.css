@@ -1,0 +1,13 @@
+.layout {
+  width: 100vw;
+  height: 100vh;
+}
+.video {
+  height: 50vh;
+  float: top;
+}
+
+.scroll {
+  height: 50vh;
+  width: 100%;
+}
